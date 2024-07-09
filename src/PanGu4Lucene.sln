@@ -1,15 +1,16 @@
-﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanGu.Lucene.Analyzer", "PanGu.Lucene.Analyzer\PanGu.Lucene.Analyzer.csproj", "{5A6AFB41-632D-46C0-B1AB-EB8B10C70A2A}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PanGu.Lucene.Analyzer", "PanGu.Lucene.Analyzer\PanGu.Lucene.Analyzer.csproj", "{5A6AFB41-632D-46C0-B1AB-EB8B10C70A2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanGu", "PanGu\PanGu.csproj", "{091E1C60-F77B-45A1-844C-86C5F508B57B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PanGu", "PanGu\PanGu.csproj", "{091E1C60-F77B-45A1-844C-86C5F508B57B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pangu.Demo", "PanGu.Demo\Pangu.Demo.csproj", "{6B5AB614-25F9-4628-9F4C-594C3B2F4049}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pangu.Demo", "PanGu.Demo\Pangu.Demo.csproj", "{6B5AB614-25F9-4628-9F4C-594C3B2F4049}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanGu.HighLight", "PanGu.HighLight\PanGu.HighLight.csproj", "{49ADDF91-A6AD-4659-BCC9-C34E3596AC89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PanGu.HighLight", "PanGu.HighLight\PanGu.HighLight.csproj", "{49ADDF91-A6AD-4659-BCC9-C34E3596AC89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanGu.Lucene.Demo", "PanGu.Lucene.Demo\PanGu.Lucene.Demo.csproj", "{492783F0-F47F-42DB-8681-EEBE424CF756}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PanGu.Lucene.Demo", "PanGu.Lucene.Demo\PanGu.Lucene.Demo.csproj", "{492783F0-F47F-42DB-8681-EEBE424CF756}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
